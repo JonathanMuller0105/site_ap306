@@ -19,10 +19,15 @@ body, input,textarea {
 }
 
 header{
-    padding: 16px 0;
+    padding: 0, 0;
     background-image: linear-gradient(to bottom,rgb(109, 118, 194),rgb(39, 39, 223) );
     color: white;
     box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.5);
+}
+
+.imagem {
+    margin-left: 103px;
+    margin-right: 23px;
 }
 
 header h1,
@@ -76,8 +81,8 @@ section {
     box-shadow: 0px 15px 10px rgba(0, 0, 0, 0.603);
     border-radius: 5px;
     padding: 24px 0;
-    color: rgb(39, 39, 223);
-    background-color: rgb(207, 210, 233)
+    color: rgb(0, 0, 0);
+    background-color: rgb(252, 245, 185)
 }
 
 section h2 {
