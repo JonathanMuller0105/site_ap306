@@ -48,7 +48,8 @@ header nav li a {
     margin: 16px;
 }
 
-.container {
+.container,
+.container h2 {
     max-width: 1000px;
     width: 100%;
     margin: 0 auto;
