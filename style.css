@@ -10,17 +10,17 @@ header,
 section h2,
 section h3,
 form button {
-    font-family: 'Bungee', cursive;
+    font-family: 'Playfair Display', serif;
     font-weight: normal;
 }
 
 body, input,textarea {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Tilt Warp'
 }
 
 header{
     padding: 0, 0;
-    background-image: linear-gradient(to bottom,rgb(109, 118, 194),rgb(39, 39, 223) );
+    background-image: linear-gradient(to bottom,rgb(240, 194, 109),rgb(136, 63, 3) );
     color: white;
     box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.5);
 }
@@ -62,7 +62,7 @@ section .container{
 }
 
 .brands-list img{
-    height: 24px;
+    height: 225px;
 }
 
 .brands-list li{
@@ -82,7 +82,7 @@ section {
     border-radius: 5px;
     padding: 24px 0;
     color: rgb(0, 0, 0);
-    background-color: rgb(252, 245, 185)
+    background-color: rgb(248, 227, 196)
 }
 
 section h2 {
@@ -142,7 +142,7 @@ section h3 {
 }
 
 form button {
-    background-color:rgb(39, 39, 223);
+    background-color:rgb(136, 63, 3);
     color: white;
     border: none;
     box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.603);
@@ -151,7 +151,7 @@ form button {
 }
 
 form button:hover {
-    background-color: rgb(97, 97, 197);
+    background-color: rgb(216, 180, 113);
 }
 
 input:focus, textarea:focus {
@@ -159,7 +159,8 @@ input:focus, textarea:focus {
 }
 
 footer {
-    background-color: rgb(39, 39, 223);
+    background-image: linear-gradient(to bottom,rgb(240, 194, 109),rgb(136, 63, 3) );
+    box-shadow: 0px 0px 9px rgba(0, 0, 0, 0.603);
     color: white;
     padding: 16px 0;
     text-align: center;
